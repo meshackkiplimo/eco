@@ -17,10 +17,15 @@
     "@vendure/core": "3.4.1",
     "@vendure/email-plugin": "3.4.1",
     "@vendure/graphiql-plugin": "3.4.1",
+    "apollo-server": "^3.13.0",
     "dotenv": "17.2.1",
+    "drizzle-orm": "^0.44.5",
+    "graphql": "^16.11.0",
     "pg": "8.16.3"
   },
   "devDependencies": {
+    "@types/node": "^24.3.0",
+    "@types/pg": "^8.15.5",
     "@vendure/cli": "3.4.1",
     "concurrently": "9.2.1",
     "typescript": "5.8.2"
